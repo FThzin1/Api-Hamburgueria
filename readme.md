@@ -1,11 +1,10 @@
-# API de Hamburgueria
-Esta API foi desenvolvida para gerenciar pedidos de uma hamburgueria. Ela oferece funcionalidades básicas para manipulação de pedidos.
-
-
 # AVISO
 ```bash
 Esse Projeto não tem database tudo em um array de pedidos
 ```
+
+# API de Hamburgueria
+Esta API foi desenvolvida para gerenciar pedidos de uma hamburgueria. Ela oferece funcionalidades básicas para manipulação de pedidos.
 
 ## Rotas Disponíveis
 GET /pedido
@@ -185,7 +184,7 @@ GET /pedidos/1
 - [x] DELETE ID
 
 # Executando o Projeto
-Clone o repositório: git clone https://github.com/seu-usuario/api-hamburgueria.git
+Clone o repositório: git clone https://github.com/FThzin1/API-HAMBURGERIA.git
 
 Instale as dependências: yarn
 
