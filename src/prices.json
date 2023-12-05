@@ -1,0 +1,26 @@
+{
+    "Hamburgueres": [
+        {
+            "tipo": "Hambúrguer simples",
+            "preco": 10.00
+        },
+        {
+            "tipo": "Hambúrguer duplo",
+            "preco": 15.00
+        },
+        {
+            "tipo": "Cheeseburger",
+            "preco": 12.00
+        },
+        {
+            "tipo": "Veggie Burger",
+            "preco": 11.00
+        }
+    ],
+    "Bebidas": [
+        {
+            "tipo": "Refrigerante",
+            "preco": 10.00
+        }
+    ]
+}
