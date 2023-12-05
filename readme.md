@@ -1,8 +1,3 @@
-# AVISO
-```bash
-Esse Projeto não tem database tudo em um array de pedidos
-```
-
 # API de Hamburgueria
 Esta API foi desenvolvida para gerenciar pedidos de uma hamburgueria. Ela oferece funcionalidades básicas para manipulação de pedidos.
 
@@ -179,9 +174,9 @@ GET /pedidos/1
 
 - [x] GETALL
 - [x] POST
-- [x] Get ID
-- [x] PUT ID
-- [x] DELETE ID
+- [x] GET:ID
+- [x] PUT:ID
+- [x] DELETE:ID
 
 # Executando o Projeto
 Clone o repositório: git clone https://github.com/FThzin1/API-HAMBURGERIA.git
